@@ -1,0 +1,20 @@
+1,Little Women,Louisa May Alcotta
+2,Pride and Prejudice,Jane Austen
+3,To Kill a Mockingbird ,Harper Lee
+4,The Great Gatsby,Scott Fitzgerald
+5,Crime and Punishment,Fyodor Dostoevsky
+6,The Secret History,Donna Tartt
+7,Persuasion,Jane Austen
+8,Moby-Dick,Herman Melville
+9,Nineteen Eighty-Four,George Orwell
+10,Dracula,Bram Stoker
+11,Great Expectations ,Charles Dickens
+12,The Brothers Karamazov ,Fyodor Dostoyevsky
+13,A Tale of Two Cities,Charles Dickens
+14,Anna Karenina,Leo Tolstoy
+15,Orlando,Virginia Woolf
+16,War and Peace,Leo Tolstoy
+17,Bleak House,Charles Dickens
+18,Silas Marner,George Eliot
+19,Mrs Dalloway ,Virginia Woolf
+20,Little Women,Louisa May Alcott
